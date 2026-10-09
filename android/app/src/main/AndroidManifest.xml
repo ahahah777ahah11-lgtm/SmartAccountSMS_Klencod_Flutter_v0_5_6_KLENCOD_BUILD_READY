@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="رسائل المحاسب الذكي"
+        android:label="SmartAccountSMS_Klencod_Flutter_v0_5_6_KLENCOD_BUILD_READY"
         android:name="${applicationName}"
         android:icon="@android:drawable/sym_def_app_icon"
         android:usesCleartextTraffic="true">
